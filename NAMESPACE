@@ -1,0 +1,3 @@
+useDynLib(SensitivityFunctions2)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
